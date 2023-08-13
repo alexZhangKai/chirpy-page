@@ -13,20 +13,20 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Australia/Melbourne
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Bubble Tea # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: A Self-Hosting Diary  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A blog of my homelab project and self-hosting journey.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://page.bbtea.dev"
 
 github:
   username: github_username # change to your github username
@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/24402261?v=4
 
 # boolean type, the global switch for TOC in posts.
 toc: true
