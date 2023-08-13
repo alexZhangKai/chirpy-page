@@ -18,7 +18,7 @@ timezone: Australia/Melbourne
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Bubble Tea # the main title
+title: Just Note # the main title
 
 tagline: A Self-Hosting Diary  # it will display as the sub-title
 
@@ -37,7 +37,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Alex Zhang
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
