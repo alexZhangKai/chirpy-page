@@ -6,6 +6,9 @@ tags: [mac, tools]
 pin: false
 math: false
 mermaid: false
+image:
+  path: /assets/img/cover/mac.jpg
+  alt: 'Photo by Pixabay: https://www.pexels.com/photo/macbook-pro-459653/'
 ---
 
 List some of my day-to-day tools on my mac. As I need to setup a new mac from time to time, this helps me to keep track of what to install first.
@@ -43,3 +46,4 @@ Check page for installation:
 - [syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
 - [auto-suggestion](https://github.com/zsh-users/zsh-autosuggestions)
 - [dracula theme](https://draculatheme.com/iterm)
+- [pastebot](https://tapbots.com/pastebot/)
