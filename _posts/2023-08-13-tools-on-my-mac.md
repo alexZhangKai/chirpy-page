@@ -47,5 +47,3 @@ Check page for installation:
 - [auto-suggestion](https://github.com/zsh-users/zsh-autosuggestions)
 - [dracula theme](https://draculatheme.com/iterm)
 - [pastebot](https://tapbots.com/pastebot/)
-
-test change
