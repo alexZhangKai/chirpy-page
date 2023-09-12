@@ -8,7 +8,7 @@ math: false
 mermaid: false
 # size 1200*630
 image:
-  path: /assets/img/cover/vpn.jpg
+  path: /vpn.jpg
   alt: 'Photo by Stefan Coders: https://www.pexels.com/photo/midnight-black-samsung-galaxy-s9-2048774/'
 ---
 

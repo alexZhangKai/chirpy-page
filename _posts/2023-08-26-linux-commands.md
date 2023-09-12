@@ -8,7 +8,7 @@ math: false
 mermaid: false
 # size 1200*630
 image:
-  path: /assets/img/cover/notes.jpg
+  path: /notes.jpg
   alt: 'Photo by Pixabay: https://www.pexels.com/photo/coffee-coffee-drink-cup-cup-of-coffee-459304/'
 ---
 

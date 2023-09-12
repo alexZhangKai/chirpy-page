@@ -7,7 +7,7 @@ pin: false
 math: false
 mermaid: false
 image:
-  path: /assets/img/cover/mac.jpg
+  path: /mac.jpg
   alt: 'Photo by Pixabay: https://www.pexels.com/photo/macbook-pro-459653/'
 ---
 
