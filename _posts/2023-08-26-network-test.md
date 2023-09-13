@@ -1,5 +1,5 @@
 ---
-title: Netowrk Troubleshooting on Linux
+title: Network Troubleshooting on Linux
 date: 2023-08-26 20:25:00 +1000
 categories: [Linux, Shell, Networking]
 tags: [linux, shell, notes, networking]

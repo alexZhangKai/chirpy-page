@@ -3,7 +3,7 @@ title: Set up WireGuard for VPN and exposing Homelab services
 date: 2023-08-21 22:06:00 +1000
 categories: [Networking, Homelab, VPN]
 tags: [homelab, networking, vpn, wireguard]
-pin: true
+pin: false
 math: false
 mermaid: false
 # size 1200*630
