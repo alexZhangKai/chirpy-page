@@ -11,6 +11,8 @@ image:
   alt: 'Photo by Pixabay: https://www.pexels.com/photo/macbook-pro-459653/'
 ---
 
+## Software
+
 List some of my day-to-day tools on my mac. As I need to setup a new mac from time to time, this helps me to keep track of what to install first.
 
 ``` shell
@@ -47,3 +49,9 @@ Check page for installation:
 - [auto-suggestion](https://github.com/zsh-users/zsh-autosuggestions)
 - [dracula theme](https://draculatheme.com/iterm)
 - [pastebot](https://tapbots.com/pastebot/)
+
+## VS Code Extension
+
+Thunder Client: postman like Rest API client
+Gitlens: git info
+Dracula Official: theme
