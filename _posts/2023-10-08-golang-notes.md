@@ -1,5 +1,5 @@
 ---
-title: Golang Learning Log
+title: [WIP] Golang Learning Log
 date: 2023-10-14 22:10:10 +1000
 categories: [Golang]
 tags: [Golang]
